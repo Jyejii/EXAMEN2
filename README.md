@@ -35,3 +35,15 @@ c) Un tipo de dato primitivo.
 d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
 
 Respuesta:d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
+
+## ¿Qué son los templates en C++?
+
+a) Un tipo especial de clase.
+
+b) Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
+
+c) Una forma de definir variables.
+
+d) Una característica específica de C.
+
+Respuesta:Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
