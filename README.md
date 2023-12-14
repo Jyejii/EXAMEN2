@@ -51,4 +51,6 @@ Respuesta:Permiten la creación de funciones y clases genéricas, es decir, que 
 
 
 ## COMPARACION EN ESTRUCTURA DE ESTUDIANTE
-podemos observar mediante estos dos codigos que el codigo c utiliza las funciones de entada/salida printf y scanf mientras que en c++ se usa las entradas y salidas de la biblioteca iostream
+-podemos observar mediante estos dos codigos que el codigo c utiliza las funciones de entada/salida printf y scanf mientras que en c++ se usa las entradas y salidas de la biblioteca iostream
+-En el codigo c++ se usa los vectores(std::vector),mientras que en c se utiliza un array bidimensional(charMateria[...])
+
