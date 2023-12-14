@@ -47,3 +47,8 @@ c) Una forma de definir variables.
 d) Una característica específica de C.
 
 Respuesta:Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.
+
+
+
+## COMPARACION EN ESTRUCTURA DE ESTUDIANTE
+podemos observar mediante estos dos codigos que el codigo c utiliza las funciones de entada/salida printf y scanf mientras que en c++ se usa las entradas y salidas de la biblioteca iostream
