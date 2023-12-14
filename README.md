@@ -21,3 +21,5 @@ b) Una manera de definir variables.
 c) Una función de la biblioteca estándar.
 
 d) Un tipo de ciclo en C++.
+
+Respuesta:
