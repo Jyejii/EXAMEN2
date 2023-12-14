@@ -12,7 +12,7 @@ d) C++ utiliza printf y scanf mientras que C utiliza std::cout y std::cin.
 
 Respuesta:b) C utiliza printf y scanf mientras que C++ utiliza std::cout y std::cin.
 
-·## ¿Qué es un espacio de nombres en C++?
+## ¿Qué es un espacio de nombres en C++?
 
 a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.
 
