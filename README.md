@@ -9,3 +9,5 @@ b) C utiliza printf y scanf mientras que C++ utiliza std::cout y std::cin.
 c) No hay ninguna diferencia.
 
 d) C++ utiliza printf y scanf mientras que C utiliza std::cout y std::cin.
+
+Respuesta:b) C utiliza printf y scanf mientras que C++ utiliza std::cout y std::cin.
