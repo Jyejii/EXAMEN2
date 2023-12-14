@@ -22,4 +22,4 @@ c) Una función de la biblioteca estándar.
 
 d) Un tipo de ciclo en C++.
 
-Respuesta:
+Respuesta:a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.
